@@ -1,0 +1,11 @@
+site_name: Boostfastapi
+repo_url: https://github.com/Filipi1/boostfastapi
+repo_name: filipi1/boostfastapi
+edit_uri: tree/main/docs
+
+theme:
+  name: "material"
+  language: "pt-BR"
+  logo: assets/icon.png
+  favicon: assets/icon.png
+  color: #019385
